@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\obj\Debug\insertstock.csprojAssemblyReference.cache
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\obj\Debug\insertstock.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\bin\Debug\insertstock.exe.config
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\bin\Debug\insertstock.exe
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\bin\Debug\insertstock.pdb
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\obj\Debug\insertstock.exe
+C:\Users\user\Documents\Trade\2019\insertstock\insertstock\obj\Debug\insertstock.pdb

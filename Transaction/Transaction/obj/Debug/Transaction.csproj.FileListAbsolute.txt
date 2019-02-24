@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\bin\Debug\Transaction.exe.config
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\bin\Debug\Transaction.exe
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\bin\Debug\Transaction.pdb
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\obj\Debug\Transaction.csprojAssemblyReference.cache
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\obj\Debug\Transaction.exe
+C:\Users\user\Documents\Trade\2019\Transaction\Transaction\obj\Debug\Transaction.pdb
